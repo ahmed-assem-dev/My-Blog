@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+.vscode
+my-blog/src/images/
+my-blog-backend/build/
+my-blog/build/
